@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rubricaWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8dc3fd56022dbe0ac2c68134996157b01030dcb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68a72d11a837a1c8b4c7e8956488cd460940fb1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("rubricaWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rubricaWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
